@@ -1,5 +1,0 @@
-ID:FR3
-TITLE: User registration - Mobile Application
-DESC: Given that a user has downloaded the mobile application, then the user should be able to register thtough the mobile application. The user must provide user-name,password and e-mail address. The user can choose to provide a regularly used phone number.
-RAT: In order for a user to register on the mobile application.
-DEP:FR1
